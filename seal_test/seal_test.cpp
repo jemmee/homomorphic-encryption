@@ -9,6 +9,7 @@
 
 #include "seal/seal.h"
 #include <iostream>
+#include <string>
 
 using namespace std;
 using namespace seal;
